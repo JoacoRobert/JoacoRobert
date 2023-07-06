@@ -1,7 +1,7 @@
   <h1 align="center">👋 Hola a todos, mi nombre es Joaquín Robert</h1>
   
 - 👀 Mis intereses son el diseño y desarrollo web 
-- 🌱 Professional Front End Developer en la UTN
+- 🌱 Professional Front End Developer - UTN
 - ✨ Puedes ver mis proyectos  en https://github.com/JoacoRobert?tab=repositories
 - 📫 Puedes contactarte conmigo en: robertjoaco@gmail.com 
 
